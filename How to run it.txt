@@ -1,0 +1,30 @@
+1- Right click in an empty space inside this folder
+2- Click "Show more options"
+3- Select "Open with Code"
+
+Once it's opened, follow the steps here to build and run it:
+
+https://code.visualstudio.com/docs/languages/cpp#_build-hello-world
+
+
+Buit basically, this is all you need to do:
+
+1- Click "Ctrl + Shift + B"
+2- Select and Enter: "C/C++: g++.exe build active file"
+3- Once done, there will be an "output" folder containing the built program "main.exe".
+
+To run it:
+
+1- Open a new terminal using this command:
+
+"Ctrl + Shift + `"
+
+You can find the "`" next to "1" on your keyboard.
+
+2- Type this and click Enter:
+
+ .\output\main.exe
+
+
+Your program should display "Hello World"
+
